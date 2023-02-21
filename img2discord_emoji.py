@@ -98,5 +98,5 @@ if __name__ == '__main__':
         help='the max amount of tiles on the shorter side, default to 1')
     args = parser.parse_args()
     
-    print(args)
+    #print(args)
     main(args.in_file, args.out_file, args.keep_boarder, args.tile_count)
