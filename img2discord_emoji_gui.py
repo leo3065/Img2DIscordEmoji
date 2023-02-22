@@ -1,4 +1,3 @@
-from fractions import Fraction
 from pathlib import Path
 import os
 import tkinter as tk
