@@ -2,10 +2,16 @@
 
 A tool for cutting images into tiles for Discord emoji.
 
+**NOTE: currently the CLI is under rewriting and its functionality does not match the GUI version**
+
 ## Demo
+
+### GUI
+
+![gui screenshot](https://github.com/leo3065/Img2DiscordEmoji/blob/master/asset/gui.png?raw=true)
+
 ### CLI
 ![demo image](https://github.com/leo3065/Img2DIscordEmoji/blob/185ace377e5faf20ec0ec98e5f356553b8186867/asset/demo.gif?raw=true)
-### GUI
 
 ## Usage:
 
