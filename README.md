@@ -3,8 +3,9 @@
 A tool for cutting images into tiles for Discord emoji.
 
 ## Demo
-
+### CLI
 ![demo image](https://github.com/leo3065/Img2DIscordEmoji/blob/185ace377e5faf20ec0ec98e5f356553b8186867/asset/demo.gif?raw=true)
+### GUI
 
 ## Usage:
 
